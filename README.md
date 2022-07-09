@@ -1,2 +1,1 @@
-# matplotlib_master
-basics of matplotlib 
+# Matplotlib Tutorial
